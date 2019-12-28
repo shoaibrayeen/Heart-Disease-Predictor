@@ -1,5 +1,5 @@
 # Heart-Disease-Predictor
-## This Application predicts Heart Disease by using different models. Here, The data is used from SAheart which resides in ElemStatLearn Libarary. Shiny package is used for web application. Logistic and KNN Regression are the classification algorithms to train the data.
+## This Application predicts Heart Disease by using different models. Here, the data is used from SAheart which resides in ElemStatLearn Library. Shiny package is used for the web application. Logistic and KNN Regression are the classification algorithms to train the data.
 
 ```
 Shiny is an R package that makes it easy to build interactive web apps 
